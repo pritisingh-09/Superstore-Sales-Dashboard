@@ -10,5 +10,15 @@ This is an interactive Power BI dashboard built using the Superstore dataset. It
 - Full Dashboard view (combining all visuals)
 - Slicers and synced visuals for interactivity
 
+## 📸 Dashboard Previews
+
+### 🔹 Full Dashboard View
+![Full Dashboard](full_dashboard.jpeg)
+
+### 🔹 Summary View
+![Summary View](Summary_View.png)
+
+### 🔹 Detailed View
+![Detailed View](Detailed_View.png)
 
 
