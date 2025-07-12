@@ -25,5 +25,5 @@ This is an interactive Power BI dashboard built using the Superstore dataset. It
 
 Click to watch the dashboard in action:
 
-[▶️ Watch Full Demo](https://github.com/pritisingh-09/Superstore-Sales-Dashboard/raw/main/your_video_filename.mp4)
+[▶️ Watch Full Demo](https://github.com/pritisingh-09/Superstore-Sales-Dashboard/raw/main/Superstore_Sales_Dashboard.mp4)
 
